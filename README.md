@@ -28,7 +28,7 @@ Altair Nexus Driver Module は、STM32H723ZGT6（NUCLEO-H723ZG）を制御コア
 
 ## ピン配置および設定一覧
 
-![alt text](image.png)
+![alt text](images/image1.png)
 
 ### エンコーダ 8系統
 
